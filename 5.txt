@@ -1,0 +1,92 @@
+Example Prompt: Hey, please, provide me the list of the most common customer 
+complaints in online e-commerce shop
+
+Example Prompt: ChatGPT, generate instructions for yourself that is recommended
+to follow when dealing with customer complaints about late or delayed delivery.
+Instructions should provide specific recommendations of how to process the
+complaint in order to save the customer.
+
+Example Prompt:Keep it short, please. 3-5 bullet points max.Generate the key 
+and the main recommendations for handling late or delayed delivery.
+
+Example Prompt:
+Respond quickly with empathy:"We are sorry for the delay and understand your 
+frustration."
+Provide compensation options:"We would like to offer you a 10% 
+discount on your next order that you will have the right to use within
+one year."
+
+only in case a customer is extremely unhappy or threatens you or your 
+business, and only if they insist on cancelling an order, then you can offer 
+them a coupon for the amount of purchase that they can use in our shop within
+the next 3 years.
+
+
+Note: Where you should put these instructions in order to check how they 
+work with ChatGPT.
+
+You have multiple options too.
+
+You can start a new chat and use these instructions as initial prompt.
+Or if you work with ChatGPT, a web application, you can click on your icon, 
+then select configure ChatGPT. And here you have two text areas.
+
+The first one is to provide the context for ChatGPT about yourself, and the 
+second one is about giving instructions to ChatGPT.
+
+How to reply.
+
+I copied the instructions that we created together, so let me just paste 
+them here.
+
+Once you click the save button, new instructions will be applied to the new 
+chat.
+
+Let's ask ChatGPT to generate for us a few complaints, and we'll proceed to 
+the new chat to check how ChatGPT will handle complaints.
+
+Example Prompt:Please generate 5 customer complaints related to late or 
+delayed delivery
+
+Note: And here we have ready to use examples.
+Let's copy one of it in order to check how ChatGPT will handle those with 
+our instructions.
+
+I create a new chat and I paste the one of the complaints.
+
+Example Prompt:123456 is order number
+
+Example Prompt: So, any update? I'm waiting here!
+
+
+Example Prompt: No, I don't want a 10% discount.I want a half price discount 
+or return all my money!
+
+Example Prompt: I'm not happy with you offer. I don't need this product at all
+right now!
+
+Example Prompt: Why you can't process refund? I even didn't receive the 
+delivery
+
+
+
+To Search in google:
+
+currency exchange fees revolut
+
+https://help.revolut.com/help/wealth/exchanging-money/how-much-does-it-cost-to-make-an-exchange/will-i-be-charged-for-exchanging-foreign-currencies/
+
+Assets available to trade
+
+https://help.revolut.com/en-ES/help/wealth/stocks/getting-started-with-trading/what-s-available-to-trade/whats-available-to-trade/
+
+
+What are Revolut’s trading fees
+
+https://help.revolut.com/help/wealth/stocks/trading-stocks/trading-fees/what-fees-will-i-be-charged-for-my-trading/
+
+
+
+Hey, Who are you?
+
+Do you offer currency exchange services?Do you charge any fees?what are they?
